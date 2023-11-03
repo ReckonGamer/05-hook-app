@@ -1,0 +1,16 @@
+body {
+    padding: 20px;
+}
+
+.btn {
+    margin-right: 10px;        
+    font-size: 15px;
+}
+
+a {
+    margin-right: 5px;
+}
+
+a:hover {
+    padding: 7px;
+}
